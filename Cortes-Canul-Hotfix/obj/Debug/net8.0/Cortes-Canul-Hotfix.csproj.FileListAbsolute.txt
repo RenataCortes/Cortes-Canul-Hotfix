@@ -12,3 +12,4 @@
 /Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.pdb
 /Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.genruntimeconfig.cache
 /Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/ref/Cortes-Canul-Hotfix.dll
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.sourcelink.json

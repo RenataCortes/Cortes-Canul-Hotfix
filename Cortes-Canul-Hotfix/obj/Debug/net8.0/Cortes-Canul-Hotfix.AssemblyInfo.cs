@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cortes-Canul-Hotfix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8b15610b6b4a00b2377d75203ee103468994fe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cortes-Canul-Hotfix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cortes-Canul-Hotfix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

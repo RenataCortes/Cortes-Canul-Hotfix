@@ -2,7 +2,7 @@
 
 Personaje personaje = new Personaje();
 personaje.Nombre = "Iktan";
-personaje.Vida = 100;
+personaje.Vida = cien;
 personaje.Ataque = 25;
 personaje.Defensa = 15;
 personaje.Nivel = 1;
