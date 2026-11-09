@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cortes-Canul-Hotfix/1.0.0": {
+        "runtime": {
+          "Cortes-Canul-Hotfix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cortes-Canul-Hotfix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
