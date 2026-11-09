@@ -1,0 +1,15 @@
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/bin/Debug/net8.0/Cortes-Canul-Hotfix
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/bin/Debug/net8.0/Cortes-Canul-Hotfix.deps.json
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/bin/Debug/net8.0/Cortes-Canul-Hotfix.runtimeconfig.json
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/bin/Debug/net8.0/Cortes-Canul-Hotfix.dll
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/bin/Debug/net8.0/Cortes-Canul-Hotfix.pdb
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.AssemblyInfoInputs.cache
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.AssemblyInfo.cs
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.csproj.CoreCompileInputs.cache
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.dll
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/refint/Cortes-Canul-Hotfix.dll
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.pdb
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.genruntimeconfig.cache
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/ref/Cortes-Canul-Hotfix.dll
+/Users/renata/UT/AppMoviles/Cortes-Canul-Hotfix/Cortes-Canul-Hotfix/obj/Debug/net8.0/Cortes-Canul-Hotfix.sourcelink.json
